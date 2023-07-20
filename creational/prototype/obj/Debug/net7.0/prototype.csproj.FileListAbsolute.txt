@@ -1,0 +1,15 @@
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\prototype\bin\Debug\net7.0\prototype.exe
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\prototype\bin\Debug\net7.0\prototype.deps.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\prototype\bin\Debug\net7.0\prototype.runtimeconfig.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\prototype\bin\Debug\net7.0\prototype.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\prototype\bin\Debug\net7.0\prototype.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\prototype\obj\Debug\net7.0\prototype.csproj.AssemblyReference.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\prototype\obj\Debug\net7.0\prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\prototype\obj\Debug\net7.0\prototype.AssemblyInfoInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\prototype\obj\Debug\net7.0\prototype.AssemblyInfo.cs
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\prototype\obj\Debug\net7.0\prototype.csproj.CoreCompileInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\prototype\obj\Debug\net7.0\prototype.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\prototype\obj\Debug\net7.0\refint\prototype.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\prototype\obj\Debug\net7.0\prototype.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\prototype\obj\Debug\net7.0\prototype.genruntimeconfig.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\prototype\obj\Debug\net7.0\ref\prototype.dll

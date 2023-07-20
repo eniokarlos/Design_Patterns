@@ -1,0 +1,15 @@
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Template_Method\bin\Debug\net7.0\Template_Method.exe
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Template_Method\bin\Debug\net7.0\Template_Method.deps.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Template_Method\bin\Debug\net7.0\Template_Method.runtimeconfig.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Template_Method\bin\Debug\net7.0\Template_Method.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Template_Method\bin\Debug\net7.0\Template_Method.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Template_Method\obj\Debug\net7.0\Template_Method.csproj.AssemblyReference.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Template_Method\obj\Debug\net7.0\Template_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Template_Method\obj\Debug\net7.0\Template_Method.AssemblyInfoInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Template_Method\obj\Debug\net7.0\Template_Method.AssemblyInfo.cs
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Template_Method\obj\Debug\net7.0\Template_Method.csproj.CoreCompileInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Template_Method\obj\Debug\net7.0\Template_Method.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Template_Method\obj\Debug\net7.0\refint\Template_Method.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Template_Method\obj\Debug\net7.0\Template_Method.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Template_Method\obj\Debug\net7.0\Template_Method.genruntimeconfig.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Template_Method\obj\Debug\net7.0\ref\Template_Method.dll

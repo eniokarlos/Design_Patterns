@@ -1,0 +1,15 @@
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\factoryMethod\obj\Debug\net7.0\factoryMethod.csproj.AssemblyReference.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\factoryMethod\obj\Debug\net7.0\factoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\factoryMethod\obj\Debug\net7.0\factoryMethod.AssemblyInfoInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\factoryMethod\obj\Debug\net7.0\factoryMethod.AssemblyInfo.cs
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\factoryMethod\obj\Debug\net7.0\factoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\factoryMethod\bin\Debug\net7.0\factoryMethod.exe
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\factoryMethod\bin\Debug\net7.0\factoryMethod.deps.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\factoryMethod\bin\Debug\net7.0\factoryMethod.runtimeconfig.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\factoryMethod\bin\Debug\net7.0\factoryMethod.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\factoryMethod\bin\Debug\net7.0\factoryMethod.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\factoryMethod\obj\Debug\net7.0\factoryMethod.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\factoryMethod\obj\Debug\net7.0\refint\factoryMethod.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\factoryMethod\obj\Debug\net7.0\factoryMethod.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\factoryMethod\obj\Debug\net7.0\factoryMethod.genruntimeconfig.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\factoryMethod\obj\Debug\net7.0\ref\factoryMethod.dll

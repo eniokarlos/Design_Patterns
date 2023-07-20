@@ -1,0 +1,15 @@
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Chain_Of_Responsibility\bin\Debug\net7.0\Chain_Of_Responsibility.exe
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Chain_Of_Responsibility\bin\Debug\net7.0\Chain_Of_Responsibility.deps.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Chain_Of_Responsibility\bin\Debug\net7.0\Chain_Of_Responsibility.runtimeconfig.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Chain_Of_Responsibility\bin\Debug\net7.0\Chain_Of_Responsibility.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Chain_Of_Responsibility\bin\Debug\net7.0\Chain_Of_Responsibility.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Chain_Of_Responsibility\obj\Debug\net7.0\Chain_Of_Responsibility.csproj.AssemblyReference.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Chain_Of_Responsibility\obj\Debug\net7.0\Chain_Of_Responsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Chain_Of_Responsibility\obj\Debug\net7.0\Chain_Of_Responsibility.AssemblyInfoInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Chain_Of_Responsibility\obj\Debug\net7.0\Chain_Of_Responsibility.AssemblyInfo.cs
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Chain_Of_Responsibility\obj\Debug\net7.0\Chain_Of_Responsibility.csproj.CoreCompileInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Chain_Of_Responsibility\obj\Debug\net7.0\Chain_Of_Responsibility.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Chain_Of_Responsibility\obj\Debug\net7.0\refint\Chain_Of_Responsibility.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Chain_Of_Responsibility\obj\Debug\net7.0\Chain_Of_Responsibility.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Chain_Of_Responsibility\obj\Debug\net7.0\Chain_Of_Responsibility.genruntimeconfig.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Chain_Of_Responsibility\obj\Debug\net7.0\ref\Chain_Of_Responsibility.dll

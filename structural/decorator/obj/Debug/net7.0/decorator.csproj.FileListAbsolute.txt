@@ -1,0 +1,15 @@
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\decorator\bin\Debug\net7.0\decorator.exe
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\decorator\bin\Debug\net7.0\decorator.deps.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\decorator\bin\Debug\net7.0\decorator.runtimeconfig.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\decorator\bin\Debug\net7.0\decorator.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\decorator\bin\Debug\net7.0\decorator.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\decorator\obj\Debug\net7.0\decorator.csproj.AssemblyReference.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\decorator\obj\Debug\net7.0\decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\decorator\obj\Debug\net7.0\decorator.AssemblyInfoInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\decorator\obj\Debug\net7.0\decorator.AssemblyInfo.cs
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\decorator\obj\Debug\net7.0\decorator.csproj.CoreCompileInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\decorator\obj\Debug\net7.0\decorator.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\decorator\obj\Debug\net7.0\refint\decorator.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\decorator\obj\Debug\net7.0\decorator.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\decorator\obj\Debug\net7.0\decorator.genruntimeconfig.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\decorator\obj\Debug\net7.0\ref\decorator.dll

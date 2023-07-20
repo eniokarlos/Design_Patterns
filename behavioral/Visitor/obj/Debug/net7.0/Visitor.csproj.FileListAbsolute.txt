@@ -1,0 +1,15 @@
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Visitor\bin\Debug\net7.0\Visitor.exe
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Visitor\bin\Debug\net7.0\Visitor.deps.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Visitor\bin\Debug\net7.0\Visitor.runtimeconfig.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Visitor\bin\Debug\net7.0\Visitor.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Visitor\bin\Debug\net7.0\Visitor.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Visitor\obj\Debug\net7.0\Visitor.csproj.AssemblyReference.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Visitor\obj\Debug\net7.0\Visitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Visitor\obj\Debug\net7.0\Visitor.AssemblyInfoInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Visitor\obj\Debug\net7.0\Visitor.AssemblyInfo.cs
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Visitor\obj\Debug\net7.0\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Visitor\obj\Debug\net7.0\Visitor.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Visitor\obj\Debug\net7.0\refint\Visitor.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Visitor\obj\Debug\net7.0\Visitor.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Visitor\obj\Debug\net7.0\Visitor.genruntimeconfig.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Visitor\obj\Debug\net7.0\ref\Visitor.dll

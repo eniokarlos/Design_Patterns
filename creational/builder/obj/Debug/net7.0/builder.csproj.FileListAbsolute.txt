@@ -1,0 +1,15 @@
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\builder\bin\Debug\net7.0\builder.exe
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\builder\bin\Debug\net7.0\builder.deps.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\builder\bin\Debug\net7.0\builder.runtimeconfig.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\builder\bin\Debug\net7.0\builder.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\builder\bin\Debug\net7.0\builder.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\builder\obj\Debug\net7.0\builder.csproj.AssemblyReference.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\builder\obj\Debug\net7.0\builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\builder\obj\Debug\net7.0\builder.AssemblyInfoInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\builder\obj\Debug\net7.0\builder.AssemblyInfo.cs
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\builder\obj\Debug\net7.0\builder.csproj.CoreCompileInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\builder\obj\Debug\net7.0\builder.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\builder\obj\Debug\net7.0\refint\builder.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\builder\obj\Debug\net7.0\builder.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\builder\obj\Debug\net7.0\builder.genruntimeconfig.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\builder\obj\Debug\net7.0\ref\builder.dll

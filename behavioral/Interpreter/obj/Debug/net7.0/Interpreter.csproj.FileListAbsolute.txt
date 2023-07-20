@@ -1,0 +1,15 @@
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Interpreter\bin\Debug\net7.0\Interpreter.exe
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Interpreter\bin\Debug\net7.0\Interpreter.deps.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Interpreter\bin\Debug\net7.0\Interpreter.runtimeconfig.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Interpreter\bin\Debug\net7.0\Interpreter.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Interpreter\bin\Debug\net7.0\Interpreter.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Interpreter\obj\Debug\net7.0\Interpreter.csproj.AssemblyReference.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Interpreter\obj\Debug\net7.0\Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Interpreter\obj\Debug\net7.0\Interpreter.AssemblyInfoInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Interpreter\obj\Debug\net7.0\Interpreter.AssemblyInfo.cs
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Interpreter\obj\Debug\net7.0\Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Interpreter\obj\Debug\net7.0\Interpreter.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Interpreter\obj\Debug\net7.0\refint\Interpreter.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Interpreter\obj\Debug\net7.0\Interpreter.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Interpreter\obj\Debug\net7.0\Interpreter.genruntimeconfig.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Interpreter\obj\Debug\net7.0\ref\Interpreter.dll

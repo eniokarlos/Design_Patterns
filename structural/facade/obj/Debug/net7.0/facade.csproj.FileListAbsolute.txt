@@ -1,0 +1,15 @@
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\facade\bin\Debug\net7.0\facade.exe
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\facade\bin\Debug\net7.0\facade.deps.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\facade\bin\Debug\net7.0\facade.runtimeconfig.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\facade\bin\Debug\net7.0\facade.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\facade\bin\Debug\net7.0\facade.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\facade\obj\Debug\net7.0\facade.csproj.AssemblyReference.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\facade\obj\Debug\net7.0\facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\facade\obj\Debug\net7.0\facade.AssemblyInfoInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\facade\obj\Debug\net7.0\facade.AssemblyInfo.cs
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\facade\obj\Debug\net7.0\facade.csproj.CoreCompileInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\facade\obj\Debug\net7.0\facade.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\facade\obj\Debug\net7.0\refint\facade.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\facade\obj\Debug\net7.0\facade.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\facade\obj\Debug\net7.0\facade.genruntimeconfig.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\facade\obj\Debug\net7.0\ref\facade.dll

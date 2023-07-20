@@ -1,0 +1,15 @@
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\singleton\obj\Debug\net7.0\singleton.csproj.AssemblyReference.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\singleton\obj\Debug\net7.0\singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\singleton\obj\Debug\net7.0\singleton.AssemblyInfoInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\singleton\obj\Debug\net7.0\singleton.AssemblyInfo.cs
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\singleton\obj\Debug\net7.0\singleton.csproj.CoreCompileInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\singleton\bin\Debug\net7.0\singleton.exe
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\singleton\bin\Debug\net7.0\singleton.deps.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\singleton\bin\Debug\net7.0\singleton.runtimeconfig.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\singleton\bin\Debug\net7.0\singleton.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\singleton\bin\Debug\net7.0\singleton.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\singleton\obj\Debug\net7.0\singleton.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\singleton\obj\Debug\net7.0\refint\singleton.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\singleton\obj\Debug\net7.0\singleton.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\singleton\obj\Debug\net7.0\singleton.genruntimeconfig.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\singleton\obj\Debug\net7.0\ref\singleton.dll

@@ -1,0 +1,15 @@
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\flyweight\bin\Debug\net7.0\flyweight.exe
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\flyweight\bin\Debug\net7.0\flyweight.deps.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\flyweight\bin\Debug\net7.0\flyweight.runtimeconfig.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\flyweight\bin\Debug\net7.0\flyweight.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\flyweight\bin\Debug\net7.0\flyweight.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\flyweight\obj\Debug\net7.0\flyweight.csproj.AssemblyReference.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\flyweight\obj\Debug\net7.0\flyweight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\flyweight\obj\Debug\net7.0\flyweight.AssemblyInfoInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\flyweight\obj\Debug\net7.0\flyweight.AssemblyInfo.cs
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\flyweight\obj\Debug\net7.0\flyweight.csproj.CoreCompileInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\flyweight\obj\Debug\net7.0\flyweight.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\flyweight\obj\Debug\net7.0\refint\flyweight.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\flyweight\obj\Debug\net7.0\flyweight.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\flyweight\obj\Debug\net7.0\flyweight.genruntimeconfig.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\flyweight\obj\Debug\net7.0\ref\flyweight.dll

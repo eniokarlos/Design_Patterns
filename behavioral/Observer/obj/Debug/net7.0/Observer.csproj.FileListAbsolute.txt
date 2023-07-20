@@ -1,0 +1,15 @@
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Observer\bin\Debug\net7.0\Observer.exe
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Observer\bin\Debug\net7.0\Observer.deps.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Observer\bin\Debug\net7.0\Observer.runtimeconfig.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Observer\bin\Debug\net7.0\Observer.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Observer\bin\Debug\net7.0\Observer.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Observer\obj\Debug\net7.0\Observer.csproj.AssemblyReference.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Observer\obj\Debug\net7.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Observer\obj\Debug\net7.0\Observer.AssemblyInfoInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Observer\obj\Debug\net7.0\Observer.AssemblyInfo.cs
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Observer\obj\Debug\net7.0\Observer.csproj.CoreCompileInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Observer\obj\Debug\net7.0\Observer.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Observer\obj\Debug\net7.0\refint\Observer.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Observer\obj\Debug\net7.0\Observer.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Observer\obj\Debug\net7.0\Observer.genruntimeconfig.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\behavioral\Observer\obj\Debug\net7.0\ref\Observer.dll

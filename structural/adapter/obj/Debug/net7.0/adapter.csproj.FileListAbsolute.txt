@@ -1,0 +1,15 @@
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\adapter\obj\Debug\net7.0\adapter.csproj.AssemblyReference.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\adapter\obj\Debug\net7.0\adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\adapter\obj\Debug\net7.0\adapter.AssemblyInfoInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\adapter\obj\Debug\net7.0\adapter.AssemblyInfo.cs
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\adapter\obj\Debug\net7.0\adapter.csproj.CoreCompileInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\adapter\bin\Debug\net7.0\adapter.exe
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\adapter\bin\Debug\net7.0\adapter.deps.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\adapter\bin\Debug\net7.0\adapter.runtimeconfig.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\adapter\bin\Debug\net7.0\adapter.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\adapter\bin\Debug\net7.0\adapter.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\adapter\obj\Debug\net7.0\adapter.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\adapter\obj\Debug\net7.0\refint\adapter.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\adapter\obj\Debug\net7.0\adapter.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\adapter\obj\Debug\net7.0\adapter.genruntimeconfig.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\structural\adapter\obj\Debug\net7.0\ref\adapter.dll

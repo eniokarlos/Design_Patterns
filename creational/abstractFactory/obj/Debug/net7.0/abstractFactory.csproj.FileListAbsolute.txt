@@ -1,0 +1,15 @@
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\abstractFactory\bin\Debug\net7.0\abstractFactory.exe
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\abstractFactory\bin\Debug\net7.0\abstractFactory.deps.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\abstractFactory\bin\Debug\net7.0\abstractFactory.runtimeconfig.json
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\abstractFactory\bin\Debug\net7.0\abstractFactory.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\abstractFactory\bin\Debug\net7.0\abstractFactory.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\abstractFactory\obj\Debug\net7.0\abstractFactory.csproj.AssemblyReference.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\abstractFactory\obj\Debug\net7.0\abstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\abstractFactory\obj\Debug\net7.0\abstractFactory.AssemblyInfoInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\abstractFactory\obj\Debug\net7.0\abstractFactory.AssemblyInfo.cs
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\abstractFactory\obj\Debug\net7.0\abstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\abstractFactory\obj\Debug\net7.0\abstractFactory.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\abstractFactory\obj\Debug\net7.0\refint\abstractFactory.dll
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\abstractFactory\obj\Debug\net7.0\abstractFactory.pdb
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\abstractFactory\obj\Debug\net7.0\abstractFactory.genruntimeconfig.cache
+C:\Users\enio carlos\Desktop\workspace\c-sharp-projects\Design_Patterns\creational\abstractFactory\obj\Debug\net7.0\ref\abstractFactory.dll
